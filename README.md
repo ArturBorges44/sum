@@ -1,1 +1,2 @@
 # sum
+print("Hello world")
